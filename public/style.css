@@ -10,6 +10,9 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: #555;
 }
+* {
+  font-family: Iosevka;
+}
 .peek-body {
   margin: 0;
   padding: 0;
